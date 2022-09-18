@@ -1,4 +1,3 @@
-# restApi
 REST api для работы с календарем
 ```
 POST /create_event
